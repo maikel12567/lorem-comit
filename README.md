@@ -1,2 +1,2 @@
-# lorem-comimt
+# lorem-com
  
